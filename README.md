@@ -1,3 +1,11 @@
+# CRUD-Basic-Redux
+
+Create for practising basic CRUD via reduxjs/toolkit.
+
+Basic Create, Read, Update and Delete can be performed. 
+
+Modal effect created for create and update function.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# CRUD-Basic-Redux
+
